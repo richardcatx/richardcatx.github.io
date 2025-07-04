@@ -12,7 +12,7 @@ An exceptional Product Leader with a passion for solving complex data and consum
 - Local Search Engine Optimization / Listings
 - Distributed / Field Marketing
 - Agile Product Management using JIRA / Confluence
-- Project Management (PMP certified)
+- Project Management ([PMP certified](https://www.credly.com/badges/6d86d2ae-6eea-4a69-bace-4b14409a350e/public_url))
 
 ### Currently
 - Based in Austin, Texas
