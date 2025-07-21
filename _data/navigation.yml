@@ -7,6 +7,6 @@ main:
   #  url: /tags/
   - title: "<i class='fa fa-user'></i> About"
     url: /about/
-  - title: "<i class='fa fa-linkedin'></i> LinkedIn"
+  - title: "<i class='fab fa-linkedin'></i> LinkedIn"
     url: "https://www.linkedin.com/in/richardcrew"
     external: true
