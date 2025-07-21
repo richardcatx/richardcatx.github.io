@@ -14,9 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Richard Crew | Digital Product Leader
+title_separator: "|"
 description: >- # this means to ignore newlines until "baseurl:"
   A digital product leader based in Austin, blending strategy, curiosity, and creative problem-solving. Explore the stories, interests, and insights that shape Richard Crew’s work and perspective.
-minimal_mistakes_skin: default
+url: "https://www.richardcrew.com"
+baseurl: ""  # Empty string — correct!
+locale: "en-US"
+image: "/assets/images/richard-crew_1200x1199.jpg" # Used by jekyll-seo-tag
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -52,6 +57,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 author:
   name   : "Richard Crew"
@@ -62,18 +68,6 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.richardcrew.com"
-    - label: "X"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/richc80"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/richardcatx"
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
 
 defaults:
   # _posts
