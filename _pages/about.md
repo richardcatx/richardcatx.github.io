@@ -24,7 +24,7 @@ An exceptional digital product leader with a passion for solving complex data an
 ## Beyond the Resume
 Originally from the UK and now happily rooted in Austin, TX, I believe that every experience is a treasure to collect and a story to share. Whether diving into ancestral archives, tracking my concert and movie experiences, or collecting memorabilia celebrating my love of music, sports, and storytelling, my passions are many and meaningful. I’ve played drums in a rock band, met Robbie Williams at a charity football (soccer) match, and in an alternate universe could have helped develop the Grand Theft Auto series of video games. I'm fueled by the mix of nostalgia, culture, and curiosity that keeps life endlessly fascinating.
 
-### More personal information
+### Find out more about me
 - [My Letterboxd profile](https://letterboxd.com/richardcrew/)
 - [My Setlist.fm profile](https://www.setlist.fm/user/richardcrew)
 - [My Spotify profile](https://open.spotify.com/user/richc80?si=c599718181294b9e)
