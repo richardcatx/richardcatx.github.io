@@ -4,7 +4,7 @@ permalink: /about/
 layout: single
 ---
 
-# Hi, I'm Richard Crew
+# Welcome! Here's some more information about me
 
 ## Professional Background
 An exceptional digital product leader with a passion for solving complex data and consumer experience challenges. Throughout my career I’ve sought to better myself, advancing from project management into product and people leadership, inspiring diverse teams with a clear vision and a lead-by-example ethos. Known for my strong sense of ownership and calm determination, I thrive at turning technical complexity into smooth, user-friendly journeys, driving real value for both customers and businesses.
