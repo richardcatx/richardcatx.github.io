@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Richard
+title: Richard Crew | Digital Product Leader
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website showcasing my projects, experiences, and interests.
+  A digital product leader based in Austin, blending strategy, curiosity, and creative problem-solving. Explore the stories, interests, and insights that shape Richard Crew’s work and perspective.
 minimal_mistakes_skin: default
 search: true
 
@@ -53,13 +53,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Richard"
+  name   : "Richard Crew"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Exploring strategy, systems, and stories through the lens of digital product leadership."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.richardcrew.com"
     - label: "X"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/richc80"
@@ -72,12 +72,6 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
