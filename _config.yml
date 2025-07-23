@@ -22,6 +22,7 @@ baseurl: ""  # Empty string — correct!
 locale: "en-US"
 image: "/assets/images/richard-crew_1200x1199.jpg" # Used by jekyll-seo-tag
 minimal_mistakes_skin: contrast
+google_analytics: G-8LNBQ6RBZC
 search: true
 
 # Build settings
