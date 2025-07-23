@@ -17,7 +17,7 @@ title: Richard Crew | Digital Product Leader
 title_separator: "|"
 description: >- # this means to ignore newlines until "baseurl:"
   A digital product leader based in Austin, blending strategy, curiosity, and creative problem-solving. Explore the stories, interests, and insights that shape Richard Crew’s work and perspective.
-url: "https://www.richardcrew.com"
+url: "https://richardcrew.com"
 baseurl: ""  # Empty string — correct!
 locale: "en-US"
 image: "/assets/images/richard-crew_1200x1199.jpg" # Used by jekyll-seo-tag
@@ -68,7 +68,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.richardcrew.com"
+      url: "https://richardcrew.com"
 
 defaults:
   # _posts
