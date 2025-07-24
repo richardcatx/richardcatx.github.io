@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Richard Crew | Digital Product Leader
 title_separator: "|"
+name: "Richard Crew"
 description: >- # this means to ignore newlines until "baseurl:"
   A digital product leader based in Austin, blending strategy, curiosity, and creative problem-solving. Explore the stories, interests, and insights that shape Richard Crew’s work and perspective.
 url: "https://richardcrew.com"
@@ -66,7 +67,7 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name   : "Richard Crew"
+  name   : "&nbsp;"
   avatar : "/assets/images/richard-crew_300x300.jpg"
   bio    : "Exploring strategy, systems, and stories through the lens of digital product leadership."
   location: "Austin, TX"
