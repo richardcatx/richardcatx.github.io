@@ -22,8 +22,13 @@ baseurl: ""  # Empty string — correct!
 locale: "en-US"
 image: "/assets/images/richard-crew_1200x1199.jpg" # Used by jekyll-seo-tag
 minimal_mistakes_skin: contrast
-google_analytics: G-8LNBQ6RBZC
 search: true
+
+# analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-8LNBQ6RBZC"
 
 # Build settings
 markdown: kramdown
@@ -61,7 +66,7 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name   : "&nbsp;"
+  name   : "Richard Crew"
   avatar : "/assets/images/richard-crew_300x300.jpg"
   bio    : "Exploring strategy, systems, and stories through the lens of digital product leadership."
   location: "Austin, TX"
@@ -88,7 +93,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
